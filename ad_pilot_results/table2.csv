@@ -1,0 +1,10 @@
+Code,A: sentences,A: per 100 words,B: sentences,B: per 100 words
+objective,7,0.8,14,1.5
+interpretive,27,3.0,19,2.1
+evaluative,2,0.2,3,0.3
+spatial,5,0.5,13,1.4
+colour,0,0.0,0,0.0
+comparison,0,0.0,0,0.0
+error,19,2.1,22,2.4
+selection,5,0.5,15,1.7
+Total (sentences | words),54,914.0,55,909.0

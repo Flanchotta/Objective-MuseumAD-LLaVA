@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-11-16T16:57:19.218024",
+  "gpu": "Tesla T4",
+  "bf16": false,
+  "inference_4bit": true,
+  "torch": "2.14.1+cu130",
+  "transformers": "5.23.0",
+  "base_model": "llava-hf/llava-1.5-7b-hf",
+  "seed": 42,
+  "n_images": 12,
+  "max_new_tokens": 320,
+  "target_words": 150,
+  "max_words": 200,
+  "decoding": "greedy"
+}
